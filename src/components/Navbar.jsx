@@ -45,7 +45,7 @@ const Navbar = () => {
            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-7">
   <path  d="M17.982 18.725A7.488 7.488 0 0 0 12 15.75a7.488 7.488 0 0 0-5.982 2.975m11.963 0a9 9 0 1 0-11.963 0m11.963 0A8.966 8.966 0 0 1 12 21a8.966 8.966 0 0 1-5.982-2.275M15 9.75a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
 </svg>
-<ul className="group-hover: block absolute top-5 right--1 bg-white shadow-border border-grey-200 py-2.5 w-30 rounded-md text-sm z-40">
+<ul className=" hidden group-hover: block absolute top-5 right--1 bg-white shadow-border border-grey-200 py-2.5 w-30 rounded-md text-sm z-40">
     <li className="p-1.5 pl-3 hover:bg-primary/10 cursor-pointer">
         My orders
     </li>
